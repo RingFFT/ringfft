@@ -1,0 +1,13 @@
+# pyproject.toml
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ringfft"
+version = "0.1"
+authors = [{name="你的名字"}]
+description = "A Python library providing ring-based FFT and NTT algorithms."
+requires-python = ">=3.8"
+dependencies = []
+
