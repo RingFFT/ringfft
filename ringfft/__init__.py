@@ -1,3 +1,7 @@
 # ringfft/__init__.py
-from .butterfly.cooley_tukey import butterfly as ctb
+from .fft_circuit import FFTCircuit
+from .ctf_block import ctf
+from .gsf_block import gsf
+
+__all__ = ["FFTCircuit", "ctf", "gsf"]
 
