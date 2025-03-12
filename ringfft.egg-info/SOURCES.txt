@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-ringfft/__init__.py
-ringfft.egg-info/PKG-INFO
-ringfft.egg-info/SOURCES.txt
-ringfft.egg-info/dependency_links.txt
-ringfft.egg-info/top_level.txt
-ringfft/butterfly/cooley_tukey.py

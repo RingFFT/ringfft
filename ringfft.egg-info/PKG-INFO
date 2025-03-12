@@ -1,6 +1,0 @@
-Metadata-Version: 2.2
-Name: ringfft
-Version: 0.1
-Summary: A Python library providing ring-based FFT and NTT algorithms.
-Author: 你的名字
-Requires-Python: >=3.8
